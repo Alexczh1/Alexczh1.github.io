@@ -18,13 +18,6 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-#- **(NeurIPS 2023) Particle-based Variational Inference with Generalized Wasserstein Gradient Flow**
-  <br/>
-  _**Ziheng Cheng\***, Shiyue Zhang\*, Longlin Yu, Cheng Zhang_
-  <br/>
-  [[Arxiv](https://arxiv.org/abs/2305.15408)]
-  [[Video](https://youtu.be/nOIRuVluCyE)]
-  [[Slides](https://haotianye.com/files/NeurIPS23/Slides_NeurIPS23_CoT.pdf)]
 
 - **(Under Review) Momentum Benefits Non-IID Federated Learning Simply and Provably**
   <br/>
