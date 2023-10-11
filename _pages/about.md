@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a senior-year undergraduate student in School of Mathematical Sciences, Peking University. My research interests span broadly in machine learning, statistics and operational research. If you are interested in my research, please feel free to contact me. Here is my CV.
+I am Ziheng Cheng, a senior-year undergraduate student in School of Mathematical Sciences, Peking University. My research interests span broadly in machine learning, statistics and operational research. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
 
 News
 ======
