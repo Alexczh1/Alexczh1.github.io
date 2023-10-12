@@ -40,7 +40,7 @@ Experiences
 ======
 - Peking University 	
   <br/>
-  Undergrad Research (advisor: Prof. [Cheng Zhang](https://zcrabbit.github.io/), Center for Statistical Science)
+  Undergrad Research (advisor: Prof. [Cheng Zhang](https://zcrabbit.github.io/), School of Mathematical Sciences)
   <br/>
   May. 2022 – Present
 
