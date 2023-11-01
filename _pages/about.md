@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a senior-year undergraduate student in School of Mathematical Sciences, Peking University. My research interests span broadly in machine learning, statistics and operational research. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
+I am Ziheng Cheng, a senior-year undergraduate student in School of Mathematical Sciences, Peking University. My research interests span broadly in statistics, optimization and machine learning. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
 
 News
 ======
+- **Oct, 2023** Join [Microsoft Research Asia](https://www.msra.cn/) as an intern!
 - **Sep, 2023** Our paper "Particle-based Variational Inference with Generalized Wasserstein Gradient Flow" accepted at NeurIPS 2023!
 - **June, 2023** Visit [Tengyu Ma](https://ai.stanford.edu/~tengyuma/) at Stanford!
 - **June, 2023** A new paper "Momentum Benefits Non-IID Federated Learning Simply and Provably" on Arxiv!
