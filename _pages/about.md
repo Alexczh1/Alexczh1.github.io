@@ -12,6 +12,7 @@ I am Ziheng Cheng, a senior-year undergraduate student in School of Mathematical
 
 News
 ======
+- **Jan, 2024** Our paper "Momentum Benefits Non-IID Federated Learning Simply and Provably" accepted at ICLR 2024!
 - **Oct, 2023** Join [Microsoft Research Asia](https://www.msra.cn/) as an intern!
 - **Sep, 2023** Our paper "Particle-based Variational Inference with Generalized Wasserstein Gradient Flow" accepted at NeurIPS 2023!
 - **June, 2023** Visit [Tengyu Ma](https://ai.stanford.edu/~tengyuma/) at Stanford!
@@ -20,16 +21,17 @@ News
 
 Publications
 ======
-- **(NeurIPS 2023) Particle-based Variational Inference with Generalized Wasserstein Gradient Flow**
-  <br/>
-  _**Ziheng Cheng\***, Shiyue Zhang\*, Longlin Yu, Cheng Zhang_
-  <br/>
-
-- **(Under Review) Momentum Benefits Non-IID Federated Learning Simply and Provably**
+- **(ICLR 2024) Momentum Benefits Non-IID Federated Learning Simply and Provably**
   <br/>
   _**Ziheng Cheng\***, Xinmeng Huang\*, Pengfei Wu, Kun Yuan_
   <br/>
   [[Arxiv](https://arxiv.org/abs/2306.16504)]
+  
+- **(NeurIPS 2023) Particle-based Variational Inference with Generalized Wasserstein Gradient Flow**
+  <br/>
+  _**Ziheng Cheng\***, Shiyue Zhang\*, Longlin Yu, Cheng Zhang_
+  <br/>
+  [[Arxiv](https://arxiv.org/abs/2310.16516)]
 
 - **(Under Review) Joint Graph Learning and Model Fitting in Laplacian Regularized Stratified Models**
   <br/>
