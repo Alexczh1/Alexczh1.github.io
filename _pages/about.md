@@ -26,7 +26,7 @@ Publications
 ======
 - **(COLT 2024) The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**
   <br/>
-  _Tianyu Xie\*, Yu Zhu\*, Longlin Yu\*, Tong Yang, **Ziheng Cheng**, Shiyue Zhang, Xiangyu Zhang, Cheng Zhang_
+  _Kumar Kshitij Patel\*, Margalit Glasgow\*, Lingxiao Wang, Nirmit Joshi, **Ziheng Cheng**, Nathan Srebro_
   <br/>
   [To Appear]
 
