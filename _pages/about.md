@@ -12,6 +12,7 @@ I am Ziheng Cheng, a senior-year undergraduate student in School of Mathematical
 
 News
 ======
+- **May, 2024** Glad to serve as a reviewer of NeurIPS 2024 for the first time!
 - **May, 2024** Our paper "The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication" accepted at COLT 2024!
 - **May, 2024** Our paper "Kernel Semi-Implicit Variational Inference", "Reflected Flow Matching" accepted at ICML 2024!
 - **April, 2024** Glad to be an incoming PhD student at [UC Berkely IEOR](https://ieor.berkeley.edu/)!
@@ -26,21 +27,21 @@ Publications
 ======
 - **(COLT 2024) The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**
   <br/>
-  _Kumar Kshitij Patel\*, Margalit Glasgow\*, Lingxiao Wang, Nirmit Joshi, **Ziheng Cheng**, Nathan Srebro_
+  _Kumar Kshitij Patel\*, Margalit Glasgow, Lingxiao Wang, Nirmit Joshi, **Ziheng Cheng**, Nathan Srebro_
   <br/>
-  [To Appear]
+  [[Arxiv](https://arxiv.org/pdf/2405.11667)]
 
 - **(ICML 2024) Kernel Semi-Implicit Variational Inference**
   <br/>
   _**Ziheng Cheng\***, Longlin Yu\*, Tianyu Xie, Shiyue Zhang, Cheng Zhang_
   <br/>
-  [To Appear]
+  [[Arxiv](https://arxiv.org/pdf/2405.18997)]
 
 - **(ICML 2024) Reflected Flow Matching**
   <br/>
   _Tianyu Xie\*, Yu Zhu\*, Longlin Yu\*, Tong Yang, **Ziheng Cheng**, Shiyue Zhang, Xiangyu Zhang, Cheng Zhang_
   <br/>
-  [To Appear]
+  [[Arxiv](https://arxiv.org/pdf/2405.16577)]
 
 - **(ICLR 2024) Momentum Benefits Non-IID Federated Learning Simply and Provably**
   <br/>
