@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    # url: https://scholar.google.com/citations?user=M8Hz2NSNe3QC&hl=en
-    url: /publications/
+    url: https://scholar.google.com/citations?user=M8Hz2NSNe3QC&hl=en
+    # url: /publications/
     
   - title: "CV"
     url: /assets/CV.pdf
