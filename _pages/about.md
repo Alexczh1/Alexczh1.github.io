@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley. My research interests span broadly in statistics, optimization and machine learning. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
+I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley. Prior to that, I was an undergraduate in School of Mathematical Sciences, Peking University. My research interests span broadly in statistics, optimization and machine learning. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
 
 News
 ======
