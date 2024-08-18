@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ziheng Cheng"
   avatar           : "person.png"
-  bio              : "Undergraduate in School of Mathematical Sciences, Peking University"
-  location         : "Beijing, China"
+  bio              : "PhD in IEOR, UC Berkeley"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=M8Hz2NSNe3QC&hl=en"
-  email            : "alex-czh@stu.pku.edu.cn"
+  email            : "ziheng_cheng@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
