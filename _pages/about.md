@@ -29,7 +29,7 @@ Publications
 ======
 - **(Preprint) Convergence of Distributed Adaptive Optimization with Local Updates**
   <br/>
-  _**Ziheng Cheng\***, Margalit Glasgow_
+  _**Ziheng Cheng**, Margalit Glasgow_
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2409.13155)]
 
