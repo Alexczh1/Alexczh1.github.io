@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley. Prior to that, I was an undergraduate in School of Mathematical Sciences, Peking University. My research interests span broadly in statistics, optimization and machine learning. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
+I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley. Prior to that, I was an undergraduate in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also fortunate to work with [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including multi-agent RL, language models and diffusion models, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me. Here is my [CV](../assets/CV.pdf).
 
 News
 ======
+- **Sep, 2024** Our paper "Functional Gradient Flows for Constrained Sampling" accepted at NeurIPS 2024!
+- **Sep, 2024** A new paper "Convergence of Distributed Adaptive Optimization with Local Updates" on Arxiv!
 - **May, 2024** Glad to serve as a reviewer of NeurIPS 2024 for the first time!
 - **May, 2024** Our paper "The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication" accepted at COLT 2024!
 - **May, 2024** Our paper "Kernel Semi-Implicit Variational Inference", "Reflected Flow Matching" accepted at ICML 2024!
-- **April, 2024** Glad to be an incoming PhD student at [UC Berkely IEOR](https://ieor.berkeley.edu/)!
+- **April, 2024** Glad to be an incoming PhD student at [UC Berkeley IEOR](https://ieor.berkeley.edu/)!
 - **Jan, 2024** Our paper "Momentum Benefits Non-IID Federated Learning Simply and Provably" accepted at ICLR 2024!
 - **Oct, 2023** Join [Microsoft Research Asia](https://www.msra.cn/) as an intern!
 - **Sep, 2023** Our paper "Particle-based Variational Inference with Generalized Wasserstein Gradient Flow" accepted at NeurIPS 2023!
@@ -25,6 +27,12 @@ News
 
 Publications
 ======
+- **(Preprint) Convergence of Distributed Adaptive Optimization with Local Updates**
+  <br/>
+  _**Ziheng Cheng\***, Margalit Glasgow_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2409.13155)]
+
 - **(COLT 2024) The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**
   <br/>
   _Kumar Kshitij Patel, Margalit Glasgow, Ali Zindari, Lingxiao Wang, Sebastian U Stich, **Ziheng Cheng**, Nirmit Joshi, Nathan Srebro_
@@ -68,7 +76,6 @@ Experiences
   Undergrad Research (advisor: Prof. [Cheng Zhang](https://zcrabbit.github.io/), School of Mathematical Sciences)
   <br/>
   May. 2022 – Present
-
 
 - Stanford University 	
   <br/>
