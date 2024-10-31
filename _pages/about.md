@@ -32,7 +32,7 @@ Publications
   <br/>
   _Shiyue Zhang\*, **Ziheng Cheng\***, Cheng Zhang_
   <br/>
-  [[Arxiv](https://arxiv.org/pdf/2409.13155)]
+  [[Arxiv](https://arxiv.org/pdf/2410.17935)]
 
 - **(Preprint) Convergence of Distributed Adaptive Optimization with Local Updates**
   <br/>
