@@ -12,6 +12,7 @@ I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley. 
 
 News
 ======
+- **Oct, 2024** A new paper "Semi-Implicit Functional Gradient Flow" on Arxiv!
 - **Sep, 2024** Our paper "Functional Gradient Flows for Constrained Sampling" accepted at NeurIPS 2024!
 - **Sep, 2024** A new paper "Convergence of Distributed Adaptive Optimization with Local Updates" on Arxiv!
 - **May, 2024** Glad to serve as a reviewer of NeurIPS 2024 for the first time!
@@ -27,6 +28,12 @@ News
 
 Publications
 ======
+- **(Preprint) Semi-Implicit Functional Gradient Flow**
+  <br/>
+  _Shiyue Zhang\*, **Ziheng Cheng\***, Cheng Zhang_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2409.13155)]
+
 - **(Preprint) Convergence of Distributed Adaptive Optimization with Local Updates**
   <br/>
   _**Ziheng Cheng**, Margalit Glasgow_
