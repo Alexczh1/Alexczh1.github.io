@@ -40,6 +40,12 @@ Publications
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2409.13155)]
 
+- **(NeurIPS) Functional Gradient Flows for Constrained Sampling**
+  <br/>
+  _Shiyue Zhang\*, Longlin Yu\*, **Ziheng Cheng\***, Cheng Zhang_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2410.23170)]
+
 - **(COLT 2024) The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**
   <br/>
   _Kumar Kshitij Patel, Margalit Glasgow, Ali Zindari, Lingxiao Wang, Sebastian U Stich, **Ziheng Cheng**, Nirmit Joshi, Nathan Srebro_
