@@ -40,7 +40,7 @@ Publications
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2409.13155)]
 
-- **(NeurIPS) Functional Gradient Flows for Constrained Sampling**
+- **(NeurIPS 2024) Functional Gradient Flows for Constrained Sampling**
   <br/>
   _Shiyue Zhang\*, Longlin Yu\*, **Ziheng Cheng\***, Cheng Zhang_
   <br/>
