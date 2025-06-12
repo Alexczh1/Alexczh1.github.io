@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley. Prior to that, I got my B.S. degree in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also very fortunate to have worked with [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including multi-agent RL, language models and diffusion models, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me.
+I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley and fortunately supervivsed by [Xin Guo](https://xinguo.ieor.berkeley.edu/). Prior to that, I got my B.S. degree in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also very fortunate to have worked with [Song Mei](https://www.stat.berkeley.edu/~songmei/), [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including multi-agent RL, language models and diffusion models, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me.
 
 News
 ======
+- **May, 2025** A new paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models" on Arxiv!
 - **Feb, 2025** A new paper "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" on Arxiv!
 - **Jan, 2025** Our paper "Convergence of Distributed Adaptive Optimization with Local Updates" accepted at ICLR 2025!
 - **Oct, 2024** A new paper "Semi-Implicit Functional Gradient Flow" on Arxiv!
@@ -30,6 +31,12 @@ News
 
 Publications
 ======
+- **OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**
+  <br/>
+  _**Ziheng Cheng\***, Yixiao Huang\*, Hui Xu, Somayeh Sojoudi, Xuandong Zhao, Dawn Song, Song Mei_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2505.21347)]
+
 - **(Preprint) Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning**
   <br/>
   _**Ziheng Cheng**, Tianyu Xie, Shiyue Zhang, Cheng Zhang_
@@ -84,7 +91,7 @@ Publications
   <br/>
   [[Arxiv](https://arxiv.org/abs/2310.16516)]
 
-- **(Under Review) Joint Graph Learning and Model Fitting in Laplacian Regularized Stratified Models**
+- **(Preprint) Joint Graph Learning and Model Fitting in Laplacian Regularized Stratified Models**
   <br/>
   _**Ziheng Cheng\***, Junzi Zhang\*, Akshay Agrawal, Stephen Boyd_
   <br/>
