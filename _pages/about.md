@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a first-year PhD student in Department of IEOR, UC Berkeley and fortunately supervivsed by [Xin Guo](https://xinguo.ieor.berkeley.edu/). Prior to that, I got my B.S. degree in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also very fortunate to have worked with [Song Mei](https://www.stat.berkeley.edu/~songmei/), [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including multi-agent RL, language models and diffusion models, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me.
+I am Ziheng Cheng, a second-year PhD student in Department of IEOR, UC Berkeley and fortunately supervised by [Xin Guo](https://xinguo.ieor.berkeley.edu/). Prior to that, I got my B.S. degree in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also very fortunate to have worked with [Song Mei](https://www.stat.berkeley.edu/~songmei/), [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including multi-agent RL, language models and diffusion models, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me.
 
 News
 ======
