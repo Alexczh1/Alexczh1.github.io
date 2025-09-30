@@ -12,6 +12,9 @@ I am Ziheng Cheng, a second-year PhD student in Department of IEOR, UC Berkeley 
 
 News
 ======
+- **Sep, 2025** A new paper "Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization" on Arxiv!
+- **Sep, 2025** A new paper "Data-Effient Training by Evolved Sampling" on Arxiv!
+- **Sep, 2025** Our paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models", "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" accepted at NeurIPS 2025!
 - **May, 2025** A new paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models" on Arxiv!
 - **Feb, 2025** A new paper "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" on Arxiv!
 - **Jan, 2025** Our paper "Convergence of Distributed Adaptive Optimization with Local Updates" accepted at ICLR 2025!
@@ -31,13 +34,25 @@ News
 
 Publications
 ======
-- **OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**
+- **(Preprint) Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization**
+  <br/>
+  _**Ziheng Cheng**, Xin Guo, Yufei Zhang_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2509.23711)]
+  
+- **(Preprint) Data-Efficient Training by Evolved Sampling**
+  <br/>
+  _**Ziheng Cheng**, Zhong Li, Jiang Bian_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2509.23461)]
+
+- **(NeurIPS 2025) OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**
   <br/>
   _**Ziheng Cheng\***, Yixiao Huang\*, Hui Xu, Somayeh Sojoudi, Xuandong Zhao, Dawn Song, Song Mei_
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2505.21347)]
 
-- **(Preprint) Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning**
+- **(NeurIPS 2025) Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning**
   <br/>
   _**Ziheng Cheng**, Tianyu Xie, Shiyue Zhang, Cheng Zhang_
   <br/>
