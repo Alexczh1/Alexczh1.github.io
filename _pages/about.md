@@ -12,6 +12,7 @@ I am Ziheng Cheng, a second-year PhD student in Department of IEOR, UC Berkeley 
 
 News
 ======
+- **Jan, 2026** Join Bytedance Seed as an intern!
 - **Sep, 2025** A new paper "Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization" on Arxiv!
 - **Sep, 2025** A new paper "Data-Effient Training by Evolved Sampling" on Arxiv!
 - **Sep, 2025** Our paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models", "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" accepted at NeurIPS 2025!
