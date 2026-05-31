@@ -12,6 +12,7 @@ I am Ziheng Cheng, a second-year PhD student in Department of IEOR, UC Berkeley 
 
 News
 ======
+- **Sep, 2025** Our paper "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning" accepted at ICML 2026!
 - **Jan, 2026** Join Bytedance Seed as an intern!
 - **Sep, 2025** A new paper "Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization" on Arxiv!
 - **Sep, 2025** A new paper "Data-Effient Training by Evolved Sampling" on Arxiv!
@@ -35,6 +36,12 @@ News
 
 Publications
 ======
+- **(ICML 2026) Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning**
+  <br/>
+  _**Ziheng Cheng\***, Yixiao Huang\*, Hanlin Zhu, Haoran Geng, Somayeh Sojoudi, Jitendra Malik, Pieter Abbeel, Xin Guo_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2605.25210)]
+  
 - **(Preprint) Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization**
   <br/>
   _**Ziheng Cheng**, Xin Guo, Yufei Zhang_
