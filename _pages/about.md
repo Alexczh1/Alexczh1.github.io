@@ -13,28 +13,13 @@ I am Ziheng Cheng, a second-year PhD student in Department of IEOR, UC Berkeley 
 News
 ======
 - **Sep, 2025** Our paper "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning" accepted at ICML 2026!
-- **Jan, 2026** Join Bytedance Seed as an intern!
-- **Sep, 2025** A new paper "Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization" on Arxiv!
+- **Jan, 2026** Join Bytedance Seed at San Jose as an intern! Looking forward to working on LLM pretraining!
+- **Sep, 2025** A new paper "Deterministic Policy Gradient for Reinforcement Learning with Continuous Time and State" on Arxiv!
 - **Sep, 2025** A new paper "Data-Effient Training by Evolved Sampling" on Arxiv!
 - **Sep, 2025** Our paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models", "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" accepted at NeurIPS 2025!
-- **May, 2025** A new paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models" on Arxiv!
-- **Feb, 2025** A new paper "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" on Arxiv!
 - **Jan, 2025** Our paper "Convergence of Distributed Adaptive Optimization with Local Updates" accepted at ICLR 2025!
-- **Oct, 2024** A new paper "Semi-Implicit Functional Gradient Flow" on Arxiv!
-- **Sep, 2024** Our paper "Functional Gradient Flows for Constrained Sampling" accepted at NeurIPS 2024!
-- **Sep, 2024** A new paper "Convergence of Distributed Adaptive Optimization with Local Updates" on Arxiv!
-- **May, 2024** Glad to serve as a reviewer of NeurIPS 2024 for the first time!
-- **May, 2024** Our paper "The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication" accepted at COLT 2024!
-- **May, 2024** Our paper "Kernel Semi-Implicit Variational Inference", "Reflected Flow Matching" accepted at ICML 2024!
-- **Apr, 2024** Glad to be an incoming PhD student at [UC Berkeley IEOR](https://ieor.berkeley.edu/)!
-- **Jan, 2024** Our paper "Momentum Benefits Non-IID Federated Learning Simply and Provably" accepted at ICLR 2024!
-- **Oct, 2023** Join [Microsoft Research Asia](https://www.msra.cn/) as an intern!
-- **Sep, 2023** Our paper "Particle-based Variational Inference with Generalized Wasserstein Gradient Flow" accepted at NeurIPS 2023!
-- **Jun, 2023** Visit [Tengyu Ma](https://ai.stanford.edu/~tengyuma/) at Stanford!
-- **Jun, 2023** A new paper "Momentum Benefits Non-IID Federated Learning Simply and Provably" on Arxiv!
-- **May, 2023** A new paper "Joint Graph Learning and Model Fitting in Laplacian Regularized Stratified Models" on Arxiv!
 
-Publications
+Selected Publications
 ======
 - **(ICML 2026) Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning**
   <br/>
@@ -42,17 +27,11 @@ Publications
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2605.25210)]
   
-- **(Preprint) Bridging Discrete and Continuous RL: Stable Deterministic Policy Gradient with Martingale Characterization**
+- **(Preprint) Deterministic Policy Gradient for Reinforcement Learning with Continuous Time and State**
   <br/>
   _**Ziheng Cheng**, Xin Guo, Yufei Zhang_
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2509.23711)]
-  
-- **(Preprint) Data-Efficient Training by Evolved Sampling**
-  <br/>
-  _**Ziheng Cheng**, Zhong Li, Jiang Bian_
-  <br/>
-  [[Arxiv](https://arxiv.org/pdf/2509.23461)]
 
 - **(NeurIPS 2025) OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models**
   <br/>
@@ -78,12 +57,6 @@ Publications
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2409.13155)]
 
-- **(NeurIPS 2024) Functional Gradient Flows for Constrained Sampling**
-  <br/>
-  _Shiyue Zhang\*, Longlin Yu\*, **Ziheng Cheng\***, Cheng Zhang_
-  <br/>
-  [[Arxiv](https://arxiv.org/pdf/2410.23170)]
-
 - **(COLT 2024) The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**
   <br/>
   _Kumar Kshitij Patel, Margalit Glasgow, Ali Zindari, Lingxiao Wang, Sebastian U Stich, **Ziheng Cheng**, Nirmit Joshi, Nathan Srebro_
@@ -96,53 +69,22 @@ Publications
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2405.18997)]
 
-- **(ICML 2024) Reflected Flow Matching**
-  <br/>
-  _Tianyu Xie\*, Yu Zhu\*, Longlin Yu\*, Tong Yang, **Ziheng Cheng**, Shiyue Zhang, Xiangyu Zhang, Cheng Zhang_
-  <br/>
-  [[Arxiv](https://arxiv.org/pdf/2405.16577)]
-
 - **(ICLR 2024) Momentum Benefits Non-IID Federated Learning Simply and Provably**
   <br/>
   _**Ziheng Cheng\***, Xinmeng Huang\*, Pengfei Wu, Kun Yuan_
   <br/>
   [[Arxiv](https://arxiv.org/abs/2306.16504)]
-  
-- **(NeurIPS 2023) Particle-based Variational Inference with Generalized Wasserstein Gradient Flow**
-  <br/>
-  _**Ziheng Cheng\***, Shiyue Zhang\*, Longlin Yu, Cheng Zhang_
-  <br/>
-  [[Arxiv](https://arxiv.org/abs/2310.16516)]
 
-- **(Preprint) Joint Graph Learning and Model Fitting in Laplacian Regularized Stratified Models**
-  <br/>
-  _**Ziheng Cheng\***, Junzi Zhang\*, Akshay Agrawal, Stephen Boyd_
-  <br/>
-  [[Arxiv](https://arxiv.org/abs/2305.02573)]
-
-Experiences
+Industry Experiences
 ======
-- Peking University 	
+- Bytedance Seed
   <br/>
-  Undergrad Research (advisor: Prof. [Cheng Zhang](https://zcrabbit.github.io/), School of Mathematical Sciences)
+  Research Intern, working on LLM pretraining
   <br/>
-  May. 2022 – Present
+  Jan. 2026 – Present
 
-- Stanford University 	
+- Microsoft Research Asia
   <br/>
-  Summer Research (advisor: Prof. [Tengyu Ma](https://ai.stanford.edu/~tengyuma/), Department of Computer Science)
+  Research Intern, working on data selection
   <br/>
-  Jun. 2023 – Oct. 2023
-
-- Peking University 	
-  <br/>
-  Undergrad Research (advisor: Prof. [Kun Yuan](https://kunyuan827.github.io/), Center for Machine Learning Research)
-  <br/>
-  Mar. 2023 – Sept. 2023
-
-- Stanford University 	
-  <br/>
-  Remote Research (advisor: Prof. [Stephen Boyd](http://stanford.edu/~boyd/), Department of Electrical Engineering)
-  <br/>
-  Oct. 2022 – May. 2023
-
+  Oct. 2023 – May. 2024
