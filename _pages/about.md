@@ -12,7 +12,9 @@ I am Ziheng Cheng, a second-year PhD student in Department of IEOR, UC Berkeley 
 
 News
 ======
-- **Sep, 2025** Our paper "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning" accepted at ICML 2026!
+- **Jul, 2026** A new paper "Actor-Critic Learning for Extended Mean Field Control with Deterministic Policies" on Arxiv!
+- **Jul, 2026** Our paper "Multi-Mask Diffusion Language Models for Few-Step Generation" accepted at COLM 2026!
+- **May, 2026** Our paper "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning" accepted at ICML 2026!
 - **Jan, 2026** Join Bytedance Seed at San Jose as an intern! Looking forward to working on LLM pretraining!
 - **Sep, 2025** A new paper "Deterministic Policy Gradient for Reinforcement Learning with Continuous Time and State" on Arxiv!
 - **Sep, 2025** A new paper "Data-Effient Training by Evolved Sampling" on Arxiv!
