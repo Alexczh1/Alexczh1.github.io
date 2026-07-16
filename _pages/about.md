@@ -47,23 +47,11 @@ Selected Publications
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2502.04491)]
 
-- **(Preprint) Semi-Implicit Functional Gradient Flow**
-  <br/>
-  _Shiyue Zhang\*, **Ziheng Cheng\***, Cheng Zhang_
-  <br/>
-  [[Arxiv](https://arxiv.org/pdf/2410.17935)]
-
 - **(ICLR 2025) Convergence of Distributed Adaptive Optimization with Local Updates**
   <br/>
   _**Ziheng Cheng**, Margalit Glasgow_
   <br/>
   [[Arxiv](https://arxiv.org/pdf/2409.13155)]
-
-- **(COLT 2024) The Limits and Potentials of Local SGD for Distributed Heterogeneous Learning with Intermittent Communication**
-  <br/>
-  _Kumar Kshitij Patel, Margalit Glasgow, Ali Zindari, Lingxiao Wang, Sebastian U Stich, **Ziheng Cheng**, Nirmit Joshi, Nathan Srebro_
-  <br/>
-  [[Arxiv](https://arxiv.org/pdf/2405.11667)]
 
 - **(ICML 2024) Kernel Semi-Implicit Variational Inference**
   <br/>
