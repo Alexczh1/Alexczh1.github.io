@@ -8,21 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziheng Cheng, a third-year PhD student in Department of IEOR, UC Berkeley and fortunately supervised by [Xin Guo](https://xinguo.ieor.berkeley.edu/). Prior to that, I got my B.S. degree in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also very fortunate to have worked with [Song Mei](https://www.stat.berkeley.edu/~songmei/), [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including multi-agent RL, language models and diffusion models, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me.
+I am Ziheng Cheng, a third-year PhD student in Department of IEOR, UC Berkeley and fortunately supervised by [Xin Guo](https://xinguo.ieor.berkeley.edu/). Prior to that, I got my B.S. degree in School of Mathematical Sciences, Peking University, supervised by [Cheng Zhang](https://zcrabbit.github.io/). I was also very fortunate to have worked with [Song Mei](https://www.stat.berkeley.edu/~songmei/), [Kun Yuan](https://kunyuan827.github.io/), [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). My research interests span broadly in statistics, optimization and machine learning, including language models and diffusion models, reinforcement learning, distributed optimization, sampling and variational inference. If you are interested in my research, please feel free to contact me.
 
 News
 ======
-- **Jul, 2026** A new paper "Actor-Critic Learning for Extended Mean Field Control with Deterministic Policies" on Arxiv!
-- **Jul, 2026** Our paper "Multi-Mask Diffusion Language Models for Few-Step Generation" accepted at COLM 2026!
-- **May, 2026** Our paper "Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning" accepted at ICML 2026!
+- **Sep, 2026** A new paper during internship at Seed!<br>
+  &emsp;[Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://arxiv.org/pdf/2609.36322)<br>
+  &emsp;*We identify a key limitation of LLM architectures with KV-cache compression, such as Deepseek V4 series.*
+- **Jul, 2026** A new paper on arxiv!<br>
+  &emsp;[Actor-Critic Learning for Extended Mean Field Control with Deterministic Policies](https://arxiv.org/pdf/2607.11005)
+- **Jul, 2026** One paper accepted at COLM 2026!<br>
+  &emsp;[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/pdf/2607.19686)
+- **May, 2026** One paper accepted at ICML 2026!<br>
+  &emsp;[Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning](https://arxiv.org/pdf/2605.25210)
 - **Jan, 2026** Join Bytedance Seed at San Jose as an intern! Looking forward to working on LLM pretraining!
-- **Sep, 2025** A new paper "Deterministic Policy Gradient for Reinforcement Learning with Continuous Time and State" on Arxiv!
-- **Sep, 2025** A new paper "Data-Effient Training by Evolved Sampling" on Arxiv!
-- **Sep, 2025** Our paper "OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models", "Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning" accepted at NeurIPS 2025!
-- **Jan, 2025** Our paper "Convergence of Distributed Adaptive Optimization with Local Updates" accepted at ICLR 2025!
+- **Sep, 2025** A new paper on arxiv!<br>
+  &emsp;[Deterministic Policy Gradient for Reinforcement Learning with Continuous Time and State](https://arxiv.org/pdf/2509.23711)<br>
+  &emsp; *We develop a groundbreaking paradigm for continuous-time deep RL.*
+- **Sep, 2025** Two papers accepted at NeurIPS 2025!<br>
+  &emsp;[OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models](https://arxiv.org/pdf/2505.21347)<br>
+  &emsp;[Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning](https://arxiv.org/pdf/2502.04491)
+- **Jan, 2025** One paper accepted at ICLR 2025!<br>
+  &emsp;[Convergence of Distributed Adaptive Optimization with Local Updates](https://arxiv.org/pdf/2409.13155)
+  &emsp; *The first end-to-end convergence guarantee of distributed Adam with local updates! Extremely solid techniques!*
 
 Selected Publications
 ======
+- **(Preprint) Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression**
+  <br/>
+  _Xingyu Zhu\*, Yi (Luke) Pu\*, **Ziheng Cheng\***, Ang Lv\*, Jing Liu, Lexing Ying, Yiyuan Ma, Xin Dong_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2609.36322)]
+
 - **(ICML 2026) Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning**
   <br/>
   _**Ziheng Cheng\***, Yixiao Huang\*, Hanlin Zhu, Haoran Geng, Somayeh Sojoudi, Jitendra Malik, Pieter Abbeel, Xin Guo_
