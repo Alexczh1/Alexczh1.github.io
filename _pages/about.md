@@ -12,23 +12,23 @@ I am Ziheng Cheng, a third-year PhD student in Department of IEOR, UC Berkeley a
 
 News
 ======
-- **Sep, 2026** A new paper during internship at Seed!<br>
+- *Sep, 2026* A new paper during internship at Seed!<br>
   &emsp;[Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://arxiv.org/pdf/2609.36322)<br>
   &emsp;**We identify a key limitation of LLM architectures with KV-cache compression, such as Deepseek V4 series.**
-- **Jul, 2026** A new paper on arxiv!<br>
+- *Jul, 2026* A new paper on arxiv!<br>
   &emsp;[Actor-Critic Learning for Extended Mean Field Control with Deterministic Policies](https://arxiv.org/pdf/2607.11005)
-- **Jul, 2026** One paper accepted at COLM 2026!<br>
+- *Jul, 2026* One paper accepted at COLM 2026!<br>
   &emsp;[Multi-Mask Diffusion Language Models for Few-Step Generation](https://arxiv.org/pdf/2607.19686)
-- **May, 2026** One paper accepted at ICML 2026!<br>
+- *May, 2026* One paper accepted at ICML 2026!<br>
   &emsp;[Multi-Objective Learning for Diffusion Models: A Statistical Theory under Semi-Supervised Learning](https://arxiv.org/pdf/2605.25210)
-- **Jan, 2026** Join Bytedance Seed at San Jose as an intern! Looking forward to working on LLM pretraining!
-- **Sep, 2025** A new paper on arxiv!<br>
+- *Jan, 2026* Join Bytedance Seed at San Jose as an intern! Looking forward to working on LLM pretraining!
+- *Sep, 2025* A new paper on arxiv!<br>
   &emsp;[Deterministic Policy Gradient for Reinforcement Learning with Continuous Time and State](https://arxiv.org/pdf/2509.23711)<br>
   &emsp;**We develop a groundbreaking paradigm for continuous-time deep RL.**
-- **Sep, 2025** Two papers accepted at NeurIPS 2025!<br>
+- *Sep, 2025* Two papers accepted at NeurIPS 2025!<br>
   &emsp;[OVERT: A Benchmark for Over-Refusal Evaluation on Text-to-Image Models](https://arxiv.org/pdf/2505.21347)<br>
   &emsp;[Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning](https://arxiv.org/pdf/2502.04491)
-- **Jan, 2025** One paper accepted at ICLR 2025!<br>
+- *Jan, 2025* One paper accepted at ICLR 2025!<br>
   &emsp;[Convergence of Distributed Adaptive Optimization with Local Updates](https://arxiv.org/pdf/2409.13155)<br>
   &emsp;**The first end-to-end convergence guarantee of distributed Adam with local updates! Extremely solid techniques!**
 
