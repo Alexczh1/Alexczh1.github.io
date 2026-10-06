@@ -12,6 +12,9 @@ I am Ziheng Cheng, a third-year PhD student in Department of IEOR, UC Berkeley a
 
 News
 ======
+- *Oct, 2026* A new paper on arxiv!<br>
+  &emsp;[How RL Reshapes LLM Reasoning: Transferability, Coverage, and Scaling Laws](https://arxiv.org/pdf/2610.04158)<br>
+  &emsp;**We theoretically understand the popular empirical observations in RL for LLM reasoning.**
 - *Sep, 2026* A new paper during internship at Seed!<br>
   &emsp;[Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression](https://arxiv.org/pdf/2609.36322)<br>
   &emsp;**We identify a key limitation of LLM architectures with KV-cache compression, such as Deepseek V4 series.**
@@ -34,6 +37,12 @@ News
 
 Selected Publications
 ======
+- **(Preprint) How RL Reshapes LLM Reasoning: Transferability, Coverage, and Scaling Laws**
+  <br/>
+  _**Ziheng Cheng\***, Yixiao Huang\*, Hanlin Zhu, Somayeh Sojoudi_
+  <br/>
+  [[Arxiv](https://arxiv.org/pdf/2610.04158)]
+
 - **(Preprint) Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression**
   <br/>
   _Xingyu Zhu\*, Yi (Luke) Pu\*, **Ziheng Cheng\***, Ang Lv\*, Jing Liu, Lexing Ying, Yiyuan Ma, Xin Dong_
